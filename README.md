@@ -1,4 +1,4 @@
-<img width="860" height="800" alt="architecture excalidraw (1)" src="https://github.com/user-attachments/assets/4f298588-b5a5-45d4-b34a-482a788fbcda" /># example-voting-app-azure
+<img width="860" height="800" alt="architecture excalidraw (1)" src="https://github.com/user-attachments/assets/4f298588-b5a5-45d4-b34a-482a788fbcda" />
 
 **Example Voting App – Azure DevOps Deployment**
 
