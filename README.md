@@ -65,5 +65,3 @@ Created dashboards to visualize resource usage, pods health, and traffic.
 Customized and deployed  Azure Kubernetes Service (AKS) using CI/CD automation.
 
 
-Architecture
-![Uploading architecture.excalidraw (1).png…]()
